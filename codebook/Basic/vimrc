@@ -1,0 +1,7 @@
+"close chinese typing"
+set nu rnu hls ts=4 sw=4 ai cin mouse=a
+inoremap {<CR> {<CR>}<Esc>O
+inoremap jk <Esc>
+autocmd filetype cpp nnoremap <F9> :w <bar> !g++ % -o %:r -std=c++14 -O2 -Wfatal-errors<CR>
+autocmd filetype cpp nnoremap <F10> :w <bar> !g++ % -o %:r -std=c++14 -O2 -Wfatal-errors && time ./%:r<CR>
+autocmd filetype cpp nnoremap <F12> :!clear<CR>

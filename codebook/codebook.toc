@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Basic}{1}{}%
+\contentsline {subsection}{\numberline {1.1}vimrc}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Python stress}{1}{}%
+\contentsline {subsection}{\numberline {1.3}C++ stress}{1}{}%
+\contentsline {section}{\numberline {2}Graph}{2}{}%
+\contentsline {subsection}{\numberline {2.1}DSU}{2}{}%
+\contentsline {subsection}{\numberline {2.2}LCA}{2}{}%
+\contentsline {section}{\numberline {3}Flow}{2}{}%
+\contentsline {subsection}{\numberline {3.1}Dinic}{2}{}%
+\contentsline {subsection}{\numberline {3.2}MinCostFlow}{2}{}%
+\contentsline {section}{\numberline {4}Matching}{3}{}%
+\contentsline {subsection}{\numberline {4.1}KM}{3}{}%
+\contentsline {section}{\numberline {5}Geometry}{3}{}%
+\contentsline {subsection}{\numberline {5.1}ConvexHull}{3}{}%
+\contentsline {section}{\numberline {6}Tree}{3}{}%
+\contentsline {subsection}{\numberline {6.1}Trie}{3}{}%
+\contentsline {section}{\numberline {7}Math}{4}{}%
+\contentsline {subsection}{\numberline {7.1}Miller Rabin}{4}{}%
+\contentsline {subsection}{\numberline {7.2}Josephus Problem}{4}{}%
+\contentsline {subsection}{\numberline {7.3}Phi}{4}{}%
+\contentsline {section}{\numberline {8}Data Structure}{4}{}%
+\contentsline {subsection}{\numberline {8.1}區間修改線段樹}{4}{}%
+\contentsline {subsection}{\numberline {8.2}pbdsKth}{5}{}%
+\contentsline {section}{\numberline {9}Other}{5}{}%
+\contentsline {subsection}{\numberline {9.1}Suifeng0214}{5}{}%
+\contentsline {subsection}{\numberline {9.2}Xiang1078}{5}{}%
+\contentsline {section}{\numberline {10}Empty}{8}{}%
+\contentsline {section}{\numberline {11}Empty}{9}{}%
+\contentsline {section}{\numberline {12}Empty}{10}{}%
