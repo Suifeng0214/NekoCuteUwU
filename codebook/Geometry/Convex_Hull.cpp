@@ -1,8 +1,6 @@
 int cross(PII a, PII b, PII c){
 	return (b.X-a.X)*(c.Y-a.Y)-(b.Y-a.Y)*(c.X-a.X);
 }
-
-}
 void convex_hull(){
     sort(v.begin(), v.end());
     int top = 0;

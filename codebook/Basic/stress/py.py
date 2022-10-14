@@ -16,6 +16,8 @@ do
     diff ac.out wa.out || break
 done
 
+
+
 # cheatsheet
 from random import * 
 n = randint(1, 100) # [1,100]

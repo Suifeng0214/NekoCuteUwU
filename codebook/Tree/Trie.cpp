@@ -22,7 +22,6 @@ void insert(string s){
 		cout << "Old! " << node->ans << "\n";
 	}
 }
- 
 void erase(trie *&node){
 	for (int i = 0; i < 26; i++){
 		if (node->nxt[i])
