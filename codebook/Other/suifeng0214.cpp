@@ -1,13 +1,11 @@
 1e9+7  1e15+37
-assert
-他用來判斷一個條件是否成立，
-如果條件成立則不會發生任何事
+#pragma GCC optimize("O3,unroll-loops")
+#pragma GCC optimize("Ofast,no-stack-protector")
 
-如果條件不成立，則會造成程式RE(Runtime Error)
-通常用於debug不確定會不會錯，或者想submit時
-不確定有沒有問題用的
+bool operator <(my_struct b){
+	return x < b.x; // 定義小於為 x 較另一個人的 x 小
+}
 
-或者想猜測資，判斷是否大於某個值，就可以assert
-會造成RE的這個性質去做事
-
-assert(x <= 5);
+my_struct operator +(my_struct b){
+	return {x+b.x, y+b.y, s+b.s};
+}

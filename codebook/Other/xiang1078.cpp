@@ -14,7 +14,7 @@ rbtree.find_by_order
 algorithm
 reverse(vec.begin(),vec.end())
 __gcd(x,y)
-
+__lg(x) // log2(x)
 set
 set_intersection
 set_union

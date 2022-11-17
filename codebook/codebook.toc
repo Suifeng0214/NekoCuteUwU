@@ -30,5 +30,7 @@
 \contentsline {subsection}{\numberline {9.2}Xiang1078}{6}{}%
 \contentsline {subsection}{\numberline {9.3}jenny20030314}{7}{}%
 \contentsline {subsection}{\numberline {9.4}int128}{8}{}%
-\contentsline {subsection}{\numberline {9.5}Primes}{8}{}%
-\contentsline {subsection}{\numberline {9.6}Python cheatsheet}{9}{}%
+\contentsline {subsection}{\numberline {9.5}\_\_builtin}{8}{}%
+\contentsline {subsection}{\numberline {9.6}Primes}{8}{}%
+\contentsline {subsection}{\numberline {9.7}Merge sort}{8}{}%
+\contentsline {subsection}{\numberline {9.8}Python cheatsheet}{9}{}%
