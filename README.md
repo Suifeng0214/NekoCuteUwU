@@ -19,7 +19,8 @@
 |2|2022 TOPC | 2022/10/24 | 31/216| 3/9 |.|.|C|.|.|F|.|H|.|
 |3| 2022 ICPC Asia Taoyuan Regional | 2022/11/20 | 33/100 | 6/13 | A |B|C|D|.|.|G|.|.|.|.|.|M|
 |4| 2023 TOPC | 2023/09/17 | 24/188 | 6/12 | A |B|.|.|E|.|.|.|.|J|K|L|
-
+|5| 2023 NCPC Final | 2023/10/15  | 20/135 | 4/14 | A |B|C|D|.|.|.|.|.|.|.|.|.|.|
+|6| 2023 ICPC Asia Taoyuan Regional | 2023/10/22 | 24/102 |10/13|A|B|C|D|E|F|.|H|.|J|.|L|M|
 ## Training
 
 | Id    | Contest | Date | Rank | Solved/Total |A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|
