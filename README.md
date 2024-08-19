@@ -43,3 +43,4 @@
 |16| [Northern Eurasia Finals Online 2020](https://codeforces.com/gym/102896)|2022/11/13|418| 4/14 |A|.|.|.|E|.|.|.|.|.|K|.|M|.|.|
 |17| [2016-2017 ACM-ICPC, NEERC, Northern Subregional Contest](https://codeforces.com/gym/101142)|2022/11/16|435|3/11|A|.|.|.|.|F|.|.|.|.|K|
 |18| [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](https://codeforces.com/gym/101173)| 2022/11/17|326|4/12|A|.|C|.|.|F|.|.|.|.|K|
+|19| [2013-2014 BSUIR Open Programming Championship. Final](https://codeforces.com/gym/100418)|2024/8/4|142|2/11|A|B|.|.|.|.|.|.|.|.|.|
